@@ -1,6 +1,6 @@
 {
   "name": "my-cafe-site",
-  "homepage": "https://aasim78.github.io/Ideal-Cafe/",
+  "homepage": "https://vaibhav-0314.github.io/Idea-cafe",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -38,5 +38,5 @@
     "gh-pages": "^6.3.0",
     "globals": "^15.15.0",
     "vite": "^6.2.5"
-  }
+ }
 }

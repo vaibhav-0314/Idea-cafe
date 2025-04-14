@@ -22,5 +22,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  base: '/Ideal-Cafe/', // Important!
+  base: '/Idea-cafe/', 
 });
